@@ -45,7 +45,7 @@ $ cd server
 # Para instalar as dependências do projeto:
 $ yarn  install
 # ou npm install
-# Para configurar o banco de dados e criando as tabelas:
+# Para configurar o banco de dados e criar as tabelas:
 $ yarn knex:migrate 
 # ou npm run knex:migrate
 
@@ -57,7 +57,7 @@ $ yarn start
 3. Vá para a pasta web
 ```
 $ cd web
-#  Para instalar  as dependências do projeto.
+#  Para instalar as dependências do projeto.
 $ yarn install
 # ou npm install
 # Iniciar a aplicação web
